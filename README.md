@@ -5,11 +5,8 @@
 * Tutorial Notebooks:
   * 1-Beginner-Ray-Core.ipynb
   * 2-Intermediate-Ray-Core-And-Large-Data.ipynb
-  * 3-Intermediate-XGBoost-Ray-Tune.ipynb
 * Other Notebooks:
   * admin-notebooks/2-Intermediate-data-gen.ipynb (generates files needed for notebook 2)
-  * troubleshooting/check_packages.ipynb (useful during compute environment setup)
-  * troubleshooting/* (other miscellaneous troubleshooting notebooks)
 * README
 
 ## Project and Workspace Setup
